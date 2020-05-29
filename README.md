@@ -15,4 +15,4 @@ Generate word embedding using UIE (word as graph node, sentence as graph node), 
 	- `gen_GDM.py`: generate the GDM after applying UIE, save to .npy file
 	- `retrive_X_Y_from_dat.ipynb`: use the .npy file to generate train and test X,Y
 - `word2node.ipynb`: contains the model 
-- ``MP solution for DGP.ipynb': word embedding using SDP
+- ```MP solution for DGP.ipynb```: word embedding using SDP
